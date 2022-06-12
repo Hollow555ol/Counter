@@ -1,0 +1,15 @@
+.button {
+  display: flex;
+  padding: 6px;
+  border: none;
+  border-radius: 6px;
+  color: beige;
+}
+
+.incrementButton {
+  background-color: crimson;
+}
+
+.decrementButton {
+  background-color: teal;
+}
